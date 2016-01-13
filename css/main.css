@@ -1,0 +1,17 @@
+body{
+	background-image: url(../img/backimg.png);
+	background-attachment: fixed;
+	background-size:cover;
+	background-position: center;
+	font-family: 'Avenir Next',Avenir,'Helvetica Neue',Helvetica,'Lantinghei SC','Hiragino Sans GB',sans-serif;
+}
+.button{
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	bottom: 15%;
+}
+
+.button img{
+	width: 20%;
+}
