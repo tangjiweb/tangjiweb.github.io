@@ -1,0 +1,29 @@
+body{
+	background-image: url(../img/m-background.png);
+	background-attachment: fixed;
+	background-size:cover;
+	background-position: center;
+	font-family: 'PingFang SC','Avenir Next',Avenir,'Helvetica Neue',Helvetica,'Lantinghei SC','Hiragino Sans GB',sans-serif;
+}
+.icon{
+	text-align: center;
+	margin: 5% auto;
+	color: #F0EDED;
+}
+
+.button{
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	bottom: 15%;
+}
+
+.button img{
+	width: 20%;
+}
+
+@media only screen and (max-width: 480px){
+	.button img{
+		width: 40%;
+	}
+}
