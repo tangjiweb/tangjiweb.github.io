@@ -23,6 +23,9 @@ body{
 }
 
 @media only screen and (max-width: 480px){
+	.icon img{
+		width: 40%;
+	}
 	.button img{
 		width: 40%;
 	}
