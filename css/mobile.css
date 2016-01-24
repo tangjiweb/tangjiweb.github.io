@@ -3,6 +3,7 @@ body{
 	background-attachment: fixed;
 	background-size:cover;
 	background-position: center;
+	background-repeat: no-repeat;
 	font-family: 'PingFang SC','Avenir Next',Avenir,'Helvetica Neue',Helvetica,'Lantinghei SC','Hiragino Sans GB',sans-serif;
 }
 .icon{
